@@ -1,0 +1,11 @@
+.splide__slide{
+    height: 400px;
+    background-color: green;
+    color: #fff;
+}
+
+.splide_arrow{
+    background: none;
+    width: 100px;
+}
+
